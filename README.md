@@ -12,7 +12,7 @@ Columns with high correlation gets dropped to avoid multicollinearity (diaBp and
 
 ### Model building
 
-Forward and backward step-wise model building methods are chosen to build a method. It leads to only two variables being chosen in the final model.  
+Forward and backward step-wise model building methods are chosen to build a method. It leads to only two variables being chosen in the final model. The two variables being Age and SysBp.
 Due to generally low values of predictions and having in mind that the purpose of the model is to correctly predict true positives, the cut off point to identify observation as positive is decreased to 0.1.  
 
 ### Model evaluation
