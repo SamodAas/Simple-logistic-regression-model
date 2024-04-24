@@ -17,7 +17,7 @@ Due to generally low values of predictions and having in mind that the purpose o
 
 ## Model evaluation
 
-Coefficients:
+Coefficients:  
 const          -7.0447     
 age             0.0589      
 sysBP           0.0169 
@@ -27,7 +27,7 @@ const           0.000872
 age             1.060655  
 sysBP           1.017033  
 
-Metrics:
+Metrics:  
 AUC_ROC score:  0.6500343921608426  
 Accuracy:       0.5  
 Recall score:   0.8617886178861789  
