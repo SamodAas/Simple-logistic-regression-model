@@ -1,4 +1,4 @@
-![image](https://github.com/SamodAas/Simple-logistic-regression-model/assets/55328989/5dadec26-8994-4602-8eab-f03269ed543b)# Logistic regression model for predicting 10 heart disease risk 
+# Logistic regression model for predicting 10 heart disease risk 
 
 ## Data and its cleaning
 
@@ -22,17 +22,17 @@ const          -7.0447
 age             0.0589      
 sysBP           0.0169 
 
-Odd ratios:
-const           0.000872
-age             1.060655
-sysBP           1.017033
+Odd ratios:  
+const           0.000872  
+age             1.060655  
+sysBP           1.017033  
 
 Metrics:
-AUC_ROC score:  0.6500343921608426
-Accuracy:       0.5
-Recall score:   0.8617886178861789
+AUC_ROC score:  0.6500343921608426  
+Accuracy:       0.5  
+Recall score:   0.8617886178861789  
 
-Confusion matrix:
+Confusion matrix:  
 ![image](https://github.com/SamodAas/Simple-logistic-regression-model/assets/55328989/8ca76080-e968-452f-aa48-4a40d5f20f99)
 
 
